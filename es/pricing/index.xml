@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Precios que se adaptan a ti on eStartup</title>
-    <link>https://example.com/es/pricing/</link>
+    <link>https://miguelsimoni.github.io/hugo-estartup-site/es/pricing/</link>
     <description>Recent content in Precios que se adaptan a ti on eStartup</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© Copyright eStartup. All rights reserved.</copyright><atom:link href="https://example.com/es/pricing/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Copyright eStartup. All rights reserved.</copyright><atom:link href="https://miguelsimoni.github.io/hugo-estartup-site/es/pricing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Básico</title>
-      <link>https://example.com/es/pricing/basic/</link>
+      <link>https://miguelsimoni.github.io/hugo-estartup-site/es/pricing/basic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/es/pricing/basic/</guid>
+      <guid>https://miguelsimoni.github.io/hugo-estartup-site/es/pricing/basic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Personal</title>
-      <link>https://example.com/es/pricing/personal/</link>
+      <link>https://miguelsimoni.github.io/hugo-estartup-site/es/pricing/personal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/es/pricing/personal/</guid>
+      <guid>https://miguelsimoni.github.io/hugo-estartup-site/es/pricing/personal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Profesional</title>
-      <link>https://example.com/es/pricing/professional/</link>
+      <link>https://miguelsimoni.github.io/hugo-estartup-site/es/pricing/professional/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/es/pricing/professional/</guid>
+      <guid>https://miguelsimoni.github.io/hugo-estartup-site/es/pricing/professional/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Negocios</title>
-      <link>https://example.com/es/pricing/business/</link>
+      <link>https://miguelsimoni.github.io/hugo-estartup-site/es/pricing/business/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/es/pricing/business/</guid>
+      <guid>https://miguelsimoni.github.io/hugo-estartup-site/es/pricing/business/</guid>
       <description></description>
     </item>
     

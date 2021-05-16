@@ -2,90 +2,90 @@
 User-agent: *
 
 
-Disallow: /pricing/basic/
+Disallow: /hugo-estartup-site/pricing/basic/
 
-Disallow: /features/creative-design/
+Disallow: /hugo-estartup-site/features/creative-design/
 
-Disallow: /getstarted/introducing-whatsapp/
+Disallow: /hugo-estartup-site/getstarted/introducing-whatsapp/
 
-Disallow: /testimonials/1/
+Disallow: /hugo-estartup-site/testimonials/1/
 
-Disallow: /testimonials/2/
+Disallow: /hugo-estartup-site/testimonials/2/
 
-Disallow: /pricing/personal/
+Disallow: /hugo-estartup-site/pricing/personal/
 
-Disallow: /features/retina-ready/
+Disallow: /hugo-estartup-site/features/retina-ready/
 
-Disallow: /getstarted/user-friendly-interface/
+Disallow: /hugo-estartup-site/getstarted/user-friendly-interface/
 
-Disallow: /getstarted/build-the-app-everyone-love/
+Disallow: /hugo-estartup-site/getstarted/build-the-app-everyone-love/
 
-Disallow: /features/easy-to-use/
+Disallow: /hugo-estartup-site/features/easy-to-use/
 
-Disallow: /testimonials/3/
+Disallow: /hugo-estartup-site/testimonials/3/
 
-Disallow: /pricing/professional/
+Disallow: /hugo-estartup-site/pricing/professional/
 
-Disallow: /pricing/business/
+Disallow: /hugo-estartup-site/pricing/business/
 
-Disallow: /features/free-updates/
+Disallow: /hugo-estartup-site/features/free-updates/
 
-Disallow: /features/free-updatesss/
+Disallow: /hugo-estartup-site/features/free-updatesss/
 
-Disallow: /features/app-store-support/
+Disallow: /hugo-estartup-site/features/app-store-support/
 
-Disallow: /features/perfect-pixel/
+Disallow: /hugo-estartup-site/features/perfect-pixel/
 
-Disallow: /features/clean-code/
+Disallow: /hugo-estartup-site/features/clean-code/
 
-Disallow: /categories/
+Disallow: /hugo-estartup-site/categories/
 
-Disallow: /tags/css/
+Disallow: /hugo-estartup-site/tags/css/
 
-Disallow: /
+Disallow: /hugo-estartup-site/
 
-Disallow: /tags/html/
+Disallow: /hugo-estartup-site/tags/html/
 
-Disallow: /tags/markdown/
+Disallow: /hugo-estartup-site/tags/markdown/
 
-Disallow: /post/markdown-syntax/
+Disallow: /hugo-estartup-site/post/markdown-syntax/
 
-Disallow: /post/
+Disallow: /hugo-estartup-site/post/
 
-Disallow: /series/
+Disallow: /hugo-estartup-site/series/
 
-Disallow: /categories/syntax/
+Disallow: /hugo-estartup-site/categories/syntax/
 
-Disallow: /tags/
+Disallow: /hugo-estartup-site/tags/
 
-Disallow: /categories/themes/
+Disallow: /hugo-estartup-site/categories/themes/
 
-Disallow: /series/themes-guide/
+Disallow: /hugo-estartup-site/series/themes-guide/
 
-Disallow: /tags/privacy/
+Disallow: /hugo-estartup-site/tags/privacy/
 
-Disallow: /post/rich-content/
+Disallow: /hugo-estartup-site/post/rich-content/
 
-Disallow: /tags/shortcodes/
+Disallow: /hugo-estartup-site/tags/shortcodes/
 
-Disallow: /post/placeholder-text/
+Disallow: /hugo-estartup-site/post/placeholder-text/
 
-Disallow: /tags/text/
+Disallow: /hugo-estartup-site/tags/text/
 
-Disallow: /post/math-typesetting/
+Disallow: /hugo-estartup-site/post/math-typesetting/
 
-Disallow: /tags/emoji/
+Disallow: /hugo-estartup-site/tags/emoji/
 
-Disallow: /post/emoji-support/
+Disallow: /hugo-estartup-site/post/emoji-support/
 
-Disallow: /about/
+Disallow: /hugo-estartup-site/about/
 
-Disallow: /features/
+Disallow: /hugo-estartup-site/features/
 
-Disallow: /tags/index/
+Disallow: /hugo-estartup-site/tags/index/
 
-Disallow: /pricing/
+Disallow: /hugo-estartup-site/pricing/
 
-Disallow: /getstarted/
+Disallow: /hugo-estartup-site/getstarted/
 
-Disallow: /testimonials/
+Disallow: /hugo-estartup-site/testimonials/

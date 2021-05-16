@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Simple System For Discount on eStartup</title>
-    <link>https://example.com/getstarted/</link>
+    <link>https://miguelsimoni.github.io/hugo-estartup-site/getstarted/</link>
     <description>Recent content in Simple System For Discount on eStartup</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© Copyright eStartup. All rights reserved.</copyright><atom:link href="https://example.com/getstarted/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Copyright eStartup. All rights reserved.</copyright><atom:link href="https://miguelsimoni.github.io/hugo-estartup-site/getstarted/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>introducing whatsapp</title>
-      <link>https://example.com/getstarted/introducing-whatsapp/</link>
+      <link>https://miguelsimoni.github.io/hugo-estartup-site/getstarted/introducing-whatsapp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/getstarted/introducing-whatsapp/</guid>
+      <guid>https://miguelsimoni.github.io/hugo-estartup-site/getstarted/introducing-whatsapp/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pulvinar fringilla elementum. Proin volutpat vestibulum lacus a vulputate. Pellentesque semper facilisis lobortis. Cras pulvinar blandit bibendum. In placerat interdum leo, a viverra dui. Nulla in arcu non augue faucibus finibus lobortis ut ipsum. Vestibulum interdum imperdiet semper. Suspendisse hendrerit diam quam, ut convallis ipsum tempor a. Maecenas eu erat condimentum ligula semper vehicula. Nulla iaculis maximus nulla aliquam iaculis. Nullam auctor pretium sapien et feugiat.</description>
     </item>
     
     <item>
       <title>user friendly interface</title>
-      <link>https://example.com/getstarted/user-friendly-interface/</link>
+      <link>https://miguelsimoni.github.io/hugo-estartup-site/getstarted/user-friendly-interface/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/getstarted/user-friendly-interface/</guid>
+      <guid>https://miguelsimoni.github.io/hugo-estartup-site/getstarted/user-friendly-interface/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pulvinar fringilla elementum. Proin volutpat vestibulum lacus a vulputate. Pellentesque semper facilisis lobortis. Cras pulvinar blandit bibendum. In placerat interdum leo, a viverra dui. Nulla in arcu non augue faucibus finibus lobortis ut ipsum. Vestibulum interdum imperdiet semper. Suspendisse hendrerit diam quam, ut convallis ipsum tempor a. Maecenas eu erat condimentum ligula semper vehicula. Nulla iaculis maximus nulla aliquam iaculis. Nullam auctor pretium sapien et feugiat.</description>
     </item>
     
     <item>
       <title>build the app everyone love</title>
-      <link>https://example.com/getstarted/build-the-app-everyone-love/</link>
+      <link>https://miguelsimoni.github.io/hugo-estartup-site/getstarted/build-the-app-everyone-love/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/getstarted/build-the-app-everyone-love/</guid>
+      <guid>https://miguelsimoni.github.io/hugo-estartup-site/getstarted/build-the-app-everyone-love/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pulvinar fringilla elementum. Proin volutpat vestibulum lacus a vulputate. Pellentesque semper facilisis lobortis. Cras pulvinar blandit bibendum. In placerat interdum leo, a viverra dui. Nulla in arcu non augue faucibus finibus lobortis ut ipsum. Vestibulum interdum imperdiet semper. Suspendisse hendrerit diam quam, ut convallis ipsum tempor a. Maecenas eu erat condimentum ligula semper vehicula. Nulla iaculis maximus nulla aliquam iaculis. Nullam auctor pretium sapien et feugiat.</description>
     </item>
     

@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Amazing Features on eStartup</title>
-    <link>https://example.com/features/</link>
+    <link>https://miguelsimoni.github.io/hugo-estartup-site/features/</link>
     <description>Recent content in Amazing Features on eStartup</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© Copyright eStartup. All rights reserved.</copyright><atom:link href="https://example.com/features/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Copyright eStartup. All rights reserved.</copyright><atom:link href="https://miguelsimoni.github.io/hugo-estartup-site/features/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creative design</title>
-      <link>https://example.com/features/creative-design/</link>
+      <link>https://miguelsimoni.github.io/hugo-estartup-site/features/creative-design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/features/creative-design/</guid>
+      <guid>https://miguelsimoni.github.io/hugo-estartup-site/features/creative-design/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pulvinar fringilla elementum. Proin volutpat vestibulum lacus a vulputate. Pellentesque semper facilisis lobortis. Cras pulvinar blandit bibendum. In placerat interdum leo, a viverra dui. Nulla in arcu non augue faucibus finibus lobortis ut ipsum. Vestibulum interdum imperdiet semper. Suspendisse hendrerit diam quam, ut convallis ipsum tempor a. Maecenas eu erat condimentum ligula semper vehicula. Nulla iaculis maximus nulla aliquam iaculis. Nullam auctor pretium sapien et feugiat.</description>
     </item>
     
     <item>
       <title>Retina Ready</title>
-      <link>https://example.com/features/retina-ready/</link>
+      <link>https://miguelsimoni.github.io/hugo-estartup-site/features/retina-ready/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/features/retina-ready/</guid>
+      <guid>https://miguelsimoni.github.io/hugo-estartup-site/features/retina-ready/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pulvinar fringilla elementum. Proin volutpat vestibulum lacus a vulputate. Pellentesque semper facilisis lobortis. Cras pulvinar blandit bibendum. In placerat interdum leo, a viverra dui. Nulla in arcu non augue faucibus finibus lobortis ut ipsum. Vestibulum interdum imperdiet semper. Suspendisse hendrerit diam quam, ut convallis ipsum tempor a. Maecenas eu erat condimentum ligula semper vehicula. Nulla iaculis maximus nulla aliquam iaculis. Nullam auctor pretium sapien et feugiat.</description>
     </item>
     
     <item>
       <title>easy to use</title>
-      <link>https://example.com/features/easy-to-use/</link>
+      <link>https://miguelsimoni.github.io/hugo-estartup-site/features/easy-to-use/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/features/easy-to-use/</guid>
+      <guid>https://miguelsimoni.github.io/hugo-estartup-site/features/easy-to-use/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pulvinar fringilla elementum. Proin volutpat vestibulum lacus a vulputate. Pellentesque semper facilisis lobortis. Cras pulvinar blandit bibendum. In placerat interdum leo, a viverra dui. Nulla in arcu non augue faucibus finibus lobortis ut ipsum. Vestibulum interdum imperdiet semper. Suspendisse hendrerit diam quam, ut convallis ipsum tempor a. Maecenas eu erat condimentum ligula semper vehicula. Nulla iaculis maximus nulla aliquam iaculis. Nullam auctor pretium sapien et feugiat.</description>
     </item>
     
     <item>
       <title>Free Updates</title>
-      <link>https://example.com/features/free-updates/</link>
+      <link>https://miguelsimoni.github.io/hugo-estartup-site/features/free-updates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/features/free-updates/</guid>
+      <guid>https://miguelsimoni.github.io/hugo-estartup-site/features/free-updates/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pulvinar fringilla elementum. Proin volutpat vestibulum lacus a vulputate. Pellentesque semper facilisis lobortis. Cras pulvinar blandit bibendum. In placerat interdum leo, a viverra dui. Nulla in arcu non augue faucibus finibus lobortis ut ipsum. Vestibulum interdum imperdiet semper. Suspendisse hendrerit diam quam, ut convallis ipsum tempor a. Maecenas eu erat condimentum ligula semper vehicula. Nulla iaculis maximus nulla aliquam iaculis. Nullam auctor pretium sapien et feugiat.</description>
     </item>
     
     <item>
       <title>Free Updates</title>
-      <link>https://example.com/features/free-updatesss/</link>
+      <link>https://miguelsimoni.github.io/hugo-estartup-site/features/free-updatesss/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/features/free-updatesss/</guid>
+      <guid>https://miguelsimoni.github.io/hugo-estartup-site/features/free-updatesss/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pulvinar fringilla elementum. Proin volutpat vestibulum lacus a vulputate. Pellentesque semper facilisis lobortis. Cras pulvinar blandit bibendum. In placerat interdum leo, a viverra dui. Nulla in arcu non augue faucibus finibus lobortis ut ipsum. Vestibulum interdum imperdiet semper. Suspendisse hendrerit diam quam, ut convallis ipsum tempor a. Maecenas eu erat condimentum ligula semper vehicula. Nulla iaculis maximus nulla aliquam iaculis. Nullam auctor pretium sapien et feugiat.</description>
     </item>
     
     <item>
       <title>App store support</title>
-      <link>https://example.com/features/app-store-support/</link>
+      <link>https://miguelsimoni.github.io/hugo-estartup-site/features/app-store-support/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/features/app-store-support/</guid>
+      <guid>https://miguelsimoni.github.io/hugo-estartup-site/features/app-store-support/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pulvinar fringilla elementum. Proin volutpat vestibulum lacus a vulputate. Pellentesque semper facilisis lobortis. Cras pulvinar blandit bibendum. In placerat interdum leo, a viverra dui. Nulla in arcu non augue faucibus finibus lobortis ut ipsum. Vestibulum interdum imperdiet semper. Suspendisse hendrerit diam quam, ut convallis ipsum tempor a. Maecenas eu erat condimentum ligula semper vehicula. Nulla iaculis maximus nulla aliquam iaculis. Nullam auctor pretium sapien et feugiat.</description>
     </item>
     
     <item>
       <title>Perfect Pixel</title>
-      <link>https://example.com/features/perfect-pixel/</link>
+      <link>https://miguelsimoni.github.io/hugo-estartup-site/features/perfect-pixel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/features/perfect-pixel/</guid>
+      <guid>https://miguelsimoni.github.io/hugo-estartup-site/features/perfect-pixel/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pulvinar fringilla elementum. Proin volutpat vestibulum lacus a vulputate. Pellentesque semper facilisis lobortis. Cras pulvinar blandit bibendum. In placerat interdum leo, a viverra dui. Nulla in arcu non augue faucibus finibus lobortis ut ipsum. Vestibulum interdum imperdiet semper. Suspendisse hendrerit diam quam, ut convallis ipsum tempor a. Maecenas eu erat condimentum ligula semper vehicula. Nulla iaculis maximus nulla aliquam iaculis. Nullam auctor pretium sapien et feugiat.</description>
     </item>
     
     <item>
       <title>clean code</title>
-      <link>https://example.com/features/clean-code/</link>
+      <link>https://miguelsimoni.github.io/hugo-estartup-site/features/clean-code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/features/clean-code/</guid>
+      <guid>https://miguelsimoni.github.io/hugo-estartup-site/features/clean-code/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pulvinar fringilla elementum. Proin volutpat vestibulum lacus a vulputate. Pellentesque semper facilisis lobortis. Cras pulvinar blandit bibendum. In placerat interdum leo, a viverra dui. Nulla in arcu non augue faucibus finibus lobortis ut ipsum. Vestibulum interdum imperdiet semper. Suspendisse hendrerit diam quam, ut convallis ipsum tempor a. Maecenas eu erat condimentum ligula semper vehicula. Nulla iaculis maximus nulla aliquam iaculis. Nullam auctor pretium sapien et feugiat.</description>
     </item>
     

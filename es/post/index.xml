@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Artículos on eStartup</title>
-    <link>https://example.com/es/post/</link>
+    <link>https://miguelsimoni.github.io/hugo-estartup-site/es/post/</link>
     <description>Recent content in Artículos on eStartup</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© Copyright eStartup. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/es/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://miguelsimoni.github.io/hugo-estartup-site/es/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Guía de sintaxis de Markdown</title>
-      <link>https://example.com/es/post/markdown-syntax/</link>
+      <link>https://miguelsimoni.github.io/hugo-estartup-site/es/post/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/es/post/markdown-syntax/</guid>
+      <guid>https://miguelsimoni.github.io/hugo-estartup-site/es/post/markdown-syntax/</guid>
       <description>&lt;p&gt;Este artículo ofrece una muestra de la sintaxis básica de Markdown que se puede utilizar en los archivos de contenido de Hugo, y también muestra si los elementos HTML básicos están decorados con CSS en un tema de Hugo.&lt;/p&gt;</description>
     </item>
     

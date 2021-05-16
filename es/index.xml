@@ -2,189 +2,189 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Inicio on eStartup</title>
-    <link>https://example.com/es/</link>
+    <link>https://miguelsimoni.github.io/hugo-estartup-site/es/</link>
     <description>Recent content in Inicio on eStartup</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© Copyright eStartup. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/es/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://miguelsimoni.github.io/hugo-estartup-site/es/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Básico</title>
-      <link>https://example.com/es/pricing/basic/</link>
+      <link>https://miguelsimoni.github.io/hugo-estartup-site/es/pricing/basic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/es/pricing/basic/</guid>
+      <guid>https://miguelsimoni.github.io/hugo-estartup-site/es/pricing/basic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Diseño creativo</title>
-      <link>https://example.com/es/features/creative-design/</link>
+      <link>https://miguelsimoni.github.io/hugo-estartup-site/es/features/creative-design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/es/features/creative-design/</guid>
+      <guid>https://miguelsimoni.github.io/hugo-estartup-site/es/features/creative-design/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pulvinar fringilla elementum. Proin volutpat vestibulum lacus a vulputate. Pellentesque semper facilisis lobortis. Cras pulvinar blandit bibendum. In placerat interdum leo, a viverra dui. Nulla in arcu non augue faucibus finibus lobortis ut ipsum. Vestibulum interdum imperdiet semper. Suspendisse hendrerit diam quam, ut convallis ipsum tempor a. Maecenas eu erat condimentum ligula semper vehicula. Nulla iaculis maximus nulla aliquam iaculis. Nullam auctor pretium sapien et feugiat.</description>
     </item>
     
     <item>
       <title>Nuestros usuarios hablan de nosotros</title>
-      <link>https://example.com/es/testimonials/1/</link>
+      <link>https://miguelsimoni.github.io/hugo-estartup-site/es/testimonials/1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/es/testimonials/1/</guid>
+      <guid>https://miguelsimoni.github.io/hugo-estartup-site/es/testimonials/1/</guid>
       <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.</description>
     </item>
     
     <item>
       <title>presentando whatsapp</title>
-      <link>https://example.com/es/getstarted/introducing-whatsapp/</link>
+      <link>https://miguelsimoni.github.io/hugo-estartup-site/es/getstarted/introducing-whatsapp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/es/getstarted/introducing-whatsapp/</guid>
+      <guid>https://miguelsimoni.github.io/hugo-estartup-site/es/getstarted/introducing-whatsapp/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pulvinar fringilla elementum. Proin volutpat vestibulum lacus a vulputate. Pellentesque semper facilisis lobortis. Cras pulvinar blandit bibendum. In placerat interdum leo, a viverra dui. Nulla in arcu non augue faucibus finibus lobortis ut ipsum. Vestibulum interdum imperdiet semper. Suspendisse hendrerit diam quam, ut convallis ipsum tempor a. Maecenas eu erat condimentum ligula semper vehicula. Nulla iaculis maximus nulla aliquam iaculis. Nullam auctor pretium sapien et feugiat.</description>
     </item>
     
     <item>
       <title>interfaz amigable</title>
-      <link>https://example.com/es/getstarted/user-friendly-interface/</link>
+      <link>https://miguelsimoni.github.io/hugo-estartup-site/es/getstarted/user-friendly-interface/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/es/getstarted/user-friendly-interface/</guid>
+      <guid>https://miguelsimoni.github.io/hugo-estartup-site/es/getstarted/user-friendly-interface/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pulvinar fringilla elementum. Proin volutpat vestibulum lacus a vulputate. Pellentesque semper facilisis lobortis. Cras pulvinar blandit bibendum. In placerat interdum leo, a viverra dui. Nulla in arcu non augue faucibus finibus lobortis ut ipsum. Vestibulum interdum imperdiet semper. Suspendisse hendrerit diam quam, ut convallis ipsum tempor a. Maecenas eu erat condimentum ligula semper vehicula. Nulla iaculis maximus nulla aliquam iaculis. Nullam auctor pretium sapien et feugiat.</description>
     </item>
     
     <item>
       <title>Nuestros usuarios hablan de nosotros</title>
-      <link>https://example.com/es/testimonials/2/</link>
+      <link>https://miguelsimoni.github.io/hugo-estartup-site/es/testimonials/2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/es/testimonials/2/</guid>
+      <guid>https://miguelsimoni.github.io/hugo-estartup-site/es/testimonials/2/</guid>
       <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.</description>
     </item>
     
     <item>
       <title>Personal</title>
-      <link>https://example.com/es/pricing/personal/</link>
+      <link>https://miguelsimoni.github.io/hugo-estartup-site/es/pricing/personal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/es/pricing/personal/</guid>
+      <guid>https://miguelsimoni.github.io/hugo-estartup-site/es/pricing/personal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Retina Ready</title>
-      <link>https://example.com/es/features/retina-ready/</link>
+      <link>https://miguelsimoni.github.io/hugo-estartup-site/es/features/retina-ready/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/es/features/retina-ready/</guid>
+      <guid>https://miguelsimoni.github.io/hugo-estartup-site/es/features/retina-ready/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pulvinar fringilla elementum. Proin volutpat vestibulum lacus a vulputate. Pellentesque semper facilisis lobortis. Cras pulvinar blandit bibendum. In placerat interdum leo, a viverra dui. Nulla in arcu non augue faucibus finibus lobortis ut ipsum. Vestibulum interdum imperdiet semper. Suspendisse hendrerit diam quam, ut convallis ipsum tempor a. Maecenas eu erat condimentum ligula semper vehicula. Nulla iaculis maximus nulla aliquam iaculis. Nullam auctor pretium sapien et feugiat.</description>
     </item>
     
     <item>
       <title>crea la aplicación que a todos les encanta</title>
-      <link>https://example.com/es/getstarted/build-the-app-everyone-love/</link>
+      <link>https://miguelsimoni.github.io/hugo-estartup-site/es/getstarted/build-the-app-everyone-love/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/es/getstarted/build-the-app-everyone-love/</guid>
+      <guid>https://miguelsimoni.github.io/hugo-estartup-site/es/getstarted/build-the-app-everyone-love/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pulvinar fringilla elementum. Proin volutpat vestibulum lacus a vulputate. Pellentesque semper facilisis lobortis. Cras pulvinar blandit bibendum. In placerat interdum leo, a viverra dui. Nulla in arcu non augue faucibus finibus lobortis ut ipsum. Vestibulum interdum imperdiet semper. Suspendisse hendrerit diam quam, ut convallis ipsum tempor a. Maecenas eu erat condimentum ligula semper vehicula. Nulla iaculis maximus nulla aliquam iaculis. Nullam auctor pretium sapien et feugiat.</description>
     </item>
     
     <item>
       <title>fácil de usar</title>
-      <link>https://example.com/es/features/easy-to-use/</link>
+      <link>https://miguelsimoni.github.io/hugo-estartup-site/es/features/easy-to-use/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/es/features/easy-to-use/</guid>
+      <guid>https://miguelsimoni.github.io/hugo-estartup-site/es/features/easy-to-use/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pulvinar fringilla elementum. Proin volutpat vestibulum lacus a vulputate. Pellentesque semper facilisis lobortis. Cras pulvinar blandit bibendum. In placerat interdum leo, a viverra dui. Nulla in arcu non augue faucibus finibus lobortis ut ipsum. Vestibulum interdum imperdiet semper. Suspendisse hendrerit diam quam, ut convallis ipsum tempor a. Maecenas eu erat condimentum ligula semper vehicula. Nulla iaculis maximus nulla aliquam iaculis. Nullam auctor pretium sapien et feugiat.</description>
     </item>
     
     <item>
       <title>Nuestros usuarios hablan de nosotros</title>
-      <link>https://example.com/es/testimonials/3/</link>
+      <link>https://miguelsimoni.github.io/hugo-estartup-site/es/testimonials/3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/es/testimonials/3/</guid>
+      <guid>https://miguelsimoni.github.io/hugo-estartup-site/es/testimonials/3/</guid>
       <description>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.</description>
     </item>
     
     <item>
       <title>Profesional</title>
-      <link>https://example.com/es/pricing/professional/</link>
+      <link>https://miguelsimoni.github.io/hugo-estartup-site/es/pricing/professional/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/es/pricing/professional/</guid>
+      <guid>https://miguelsimoni.github.io/hugo-estartup-site/es/pricing/professional/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Actualizaciones gratis</title>
-      <link>https://example.com/es/features/free-updates/</link>
+      <link>https://miguelsimoni.github.io/hugo-estartup-site/es/features/free-updates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/es/features/free-updates/</guid>
+      <guid>https://miguelsimoni.github.io/hugo-estartup-site/es/features/free-updates/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pulvinar fringilla elementum. Proin volutpat vestibulum lacus a vulputate. Pellentesque semper facilisis lobortis. Cras pulvinar blandit bibendum. In placerat interdum leo, a viverra dui. Nulla in arcu non augue faucibus finibus lobortis ut ipsum. Vestibulum interdum imperdiet semper. Suspendisse hendrerit diam quam, ut convallis ipsum tempor a. Maecenas eu erat condimentum ligula semper vehicula. Nulla iaculis maximus nulla aliquam iaculis. Nullam auctor pretium sapien et feugiat.</description>
     </item>
     
     <item>
       <title>Actualizaciones gratis</title>
-      <link>https://example.com/es/features/free-updatesss/</link>
+      <link>https://miguelsimoni.github.io/hugo-estartup-site/es/features/free-updatesss/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/es/features/free-updatesss/</guid>
+      <guid>https://miguelsimoni.github.io/hugo-estartup-site/es/features/free-updatesss/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pulvinar fringilla elementum. Proin volutpat vestibulum lacus a vulputate. Pellentesque semper facilisis lobortis. Cras pulvinar blandit bibendum. In placerat interdum leo, a viverra dui. Nulla in arcu non augue faucibus finibus lobortis ut ipsum. Vestibulum interdum imperdiet semper. Suspendisse hendrerit diam quam, ut convallis ipsum tempor a. Maecenas eu erat condimentum ligula semper vehicula. Nulla iaculis maximus nulla aliquam iaculis. Nullam auctor pretium sapien et feugiat.</description>
     </item>
     
     <item>
       <title>Negocios</title>
-      <link>https://example.com/es/pricing/business/</link>
+      <link>https://miguelsimoni.github.io/hugo-estartup-site/es/pricing/business/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/es/pricing/business/</guid>
+      <guid>https://miguelsimoni.github.io/hugo-estartup-site/es/pricing/business/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Soporte en App store</title>
-      <link>https://example.com/es/features/app-store-support/</link>
+      <link>https://miguelsimoni.github.io/hugo-estartup-site/es/features/app-store-support/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/es/features/app-store-support/</guid>
+      <guid>https://miguelsimoni.github.io/hugo-estartup-site/es/features/app-store-support/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pulvinar fringilla elementum. Proin volutpat vestibulum lacus a vulputate. Pellentesque semper facilisis lobortis. Cras pulvinar blandit bibendum. In placerat interdum leo, a viverra dui. Nulla in arcu non augue faucibus finibus lobortis ut ipsum. Vestibulum interdum imperdiet semper. Suspendisse hendrerit diam quam, ut convallis ipsum tempor a. Maecenas eu erat condimentum ligula semper vehicula. Nulla iaculis maximus nulla aliquam iaculis. Nullam auctor pretium sapien et feugiat.</description>
     </item>
     
     <item>
       <title>Perfect Pixel</title>
-      <link>https://example.com/es/features/perfect-pixel/</link>
+      <link>https://miguelsimoni.github.io/hugo-estartup-site/es/features/perfect-pixel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/es/features/perfect-pixel/</guid>
+      <guid>https://miguelsimoni.github.io/hugo-estartup-site/es/features/perfect-pixel/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pulvinar fringilla elementum. Proin volutpat vestibulum lacus a vulputate. Pellentesque semper facilisis lobortis. Cras pulvinar blandit bibendum. In placerat interdum leo, a viverra dui. Nulla in arcu non augue faucibus finibus lobortis ut ipsum. Vestibulum interdum imperdiet semper. Suspendisse hendrerit diam quam, ut convallis ipsum tempor a. Maecenas eu erat condimentum ligula semper vehicula. Nulla iaculis maximus nulla aliquam iaculis. Nullam auctor pretium sapien et feugiat.</description>
     </item>
     
     <item>
       <title>código limpio</title>
-      <link>https://example.com/es/features/clean-code/</link>
+      <link>https://miguelsimoni.github.io/hugo-estartup-site/es/features/clean-code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/es/features/clean-code/</guid>
+      <guid>https://miguelsimoni.github.io/hugo-estartup-site/es/features/clean-code/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pulvinar fringilla elementum. Proin volutpat vestibulum lacus a vulputate. Pellentesque semper facilisis lobortis. Cras pulvinar blandit bibendum. In placerat interdum leo, a viverra dui. Nulla in arcu non augue faucibus finibus lobortis ut ipsum. Vestibulum interdum imperdiet semper. Suspendisse hendrerit diam quam, ut convallis ipsum tempor a. Maecenas eu erat condimentum ligula semper vehicula. Nulla iaculis maximus nulla aliquam iaculis. Nullam auctor pretium sapien et feugiat.</description>
     </item>
     
     <item>
       <title>Guía de sintaxis de Markdown</title>
-      <link>https://example.com/es/post/markdown-syntax/</link>
+      <link>https://miguelsimoni.github.io/hugo-estartup-site/es/post/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/es/post/markdown-syntax/</guid>
+      <guid>https://miguelsimoni.github.io/hugo-estartup-site/es/post/markdown-syntax/</guid>
       <description>&lt;p&gt;Este artículo ofrece una muestra de la sintaxis básica de Markdown que se puede utilizar en los archivos de contenido de Hugo, y también muestra si los elementos HTML básicos están decorados con CSS en un tema de Hugo.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Acerca</title>
-      <link>https://example.com/es/about/</link>
+      <link>https://miguelsimoni.github.io/hugo-estartup-site/es/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/es/about/</guid>
+      <guid>https://miguelsimoni.github.io/hugo-estartup-site/es/about/</guid>
       <description>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</description>
     </item>
     
