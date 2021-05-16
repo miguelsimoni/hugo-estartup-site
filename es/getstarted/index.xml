@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sistema simple de descuento on eStartup</title>
+    <link>https://example.com/es/getstarted/</link>
+    <description>Recent content in Sistema simple de descuento on eStartup</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© Copyright eStartup. All rights reserved.</copyright><atom:link href="https://example.com/es/getstarted/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>presentando whatsapp</title>
+      <link>https://example.com/es/getstarted/introducing-whatsapp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/es/getstarted/introducing-whatsapp/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pulvinar fringilla elementum. Proin volutpat vestibulum lacus a vulputate. Pellentesque semper facilisis lobortis. Cras pulvinar blandit bibendum. In placerat interdum leo, a viverra dui. Nulla in arcu non augue faucibus finibus lobortis ut ipsum. Vestibulum interdum imperdiet semper. Suspendisse hendrerit diam quam, ut convallis ipsum tempor a. Maecenas eu erat condimentum ligula semper vehicula. Nulla iaculis maximus nulla aliquam iaculis. Nullam auctor pretium sapien et feugiat.</description>
+    </item>
+    
+    <item>
+      <title>interfaz amigable</title>
+      <link>https://example.com/es/getstarted/user-friendly-interface/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/es/getstarted/user-friendly-interface/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pulvinar fringilla elementum. Proin volutpat vestibulum lacus a vulputate. Pellentesque semper facilisis lobortis. Cras pulvinar blandit bibendum. In placerat interdum leo, a viverra dui. Nulla in arcu non augue faucibus finibus lobortis ut ipsum. Vestibulum interdum imperdiet semper. Suspendisse hendrerit diam quam, ut convallis ipsum tempor a. Maecenas eu erat condimentum ligula semper vehicula. Nulla iaculis maximus nulla aliquam iaculis. Nullam auctor pretium sapien et feugiat.</description>
+    </item>
+    
+    <item>
+      <title>crea la aplicación que a todos les encanta</title>
+      <link>https://example.com/es/getstarted/build-the-app-everyone-love/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/es/getstarted/build-the-app-everyone-love/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pulvinar fringilla elementum. Proin volutpat vestibulum lacus a vulputate. Pellentesque semper facilisis lobortis. Cras pulvinar blandit bibendum. In placerat interdum leo, a viverra dui. Nulla in arcu non augue faucibus finibus lobortis ut ipsum. Vestibulum interdum imperdiet semper. Suspendisse hendrerit diam quam, ut convallis ipsum tempor a. Maecenas eu erat condimentum ligula semper vehicula. Nulla iaculis maximus nulla aliquam iaculis. Nullam auctor pretium sapien et feugiat.</description>
+    </item>
+    
+  </channel>
+</rss>

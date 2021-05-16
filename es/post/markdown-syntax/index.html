@@ -1,0 +1,660 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<meta name="author" content="Kimberly Tran">
+
+
+
+  
+  <meta name="description" content="Artículo de muestra que muestra la sintaxis y el formato básicos de Markdown para elementos HTML.">
+  <meta name="keywords" content="[]">
+
+
+
+
+  <link href="https://example.com/img/favicon.png" rel="icon">
+<link href="https://example.com/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+
+  <base href="/es">
+
+  <title>eStartup</title>
+
+  <link rel="canonical" href="https://example.com/es/post/markdown-syntax/">
+  
+
+  
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css" integrity="sha384-wEmeIV1mKuiNpC+IOBjI7aAzPcEZeedi5yW5f2yOq55WWLwNGmvvx4Um1vskeMj0" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
+
+<link href="https://example.com/vendor/aos/aos.css" rel="stylesheet">
+<link href="https://example.com/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+<link href="https://example.com/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Roboto:100,300,400,500,700|Philosopher:400,400i,700,700i" rel="stylesheet">
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" integrity="sha512-HK5fgLBL+xu6dm/Ii3z4xhlSUyZgTT9tuc/hSrtw6uzJOvgRr2a9jyxxT1ely+B+xFAmJKVSTbpM/CuL7qxO8w==" crossorigin="anonymous" />
+
+
+<link rel="stylesheet" href="https://example.com/css/bundle.min.ae687fc1399cb572480d83a4ec3ffef48a9a56015255286f9ec8e676a20d287659cc2e56d81c0d6bea05ffb8dac7d877d957e277758ba4ee74d56507db81c7e3.css" integrity="sha512-rmh/wTmctXJIDYOk7D/&#43;9IqaVgFSVShvnsjmdqINKHZZzC5W2BwNa&#43;oF/7jax9h32Vfid3WLpO501WUH24HH4w==">
+
+
+  <meta property="og:title" content="Guía de sintaxis de Markdown" />
+<meta property="og:description" content="Artículo de muestra que muestra la sintaxis y el formato básicos de Markdown para elementos HTML." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://example.com/es/post/markdown-syntax/" /><meta property="og:image" content="https://example.com/site-feature-image.jpg"/><meta property="article:section" content="post" />
+<meta property="article:published_time" content="2019-03-11T00:00:00&#43;00:00" />
+<meta property="article:modified_time" content="2019-03-11T00:00:00&#43;00:00" /><meta property="og:site_name" content="eStartup" />
+
+
+
+  <meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://example.com/site-feature-image.jpg"/>
+
+<meta name="twitter:title" content="Guía de sintaxis de Markdown"/>
+<meta name="twitter:description" content="Artículo de muestra que muestra la sintaxis y el formato básicos de Markdown para elementos HTML."/>
+
+
+  
+</head>
+
+
+<body>
+  <header id="header" class="header fixed-top d-flex align-items-center">
+  <div class="container d-flex align-items-center justify-content-between">
+
+    <div id="logo">
+      
+      <h1><a href="/es"><span>e</span>Startup</a></h1>
+      
+    </div>
+
+    
+<aside>
+  <nav id="navbar" class="navbar">
+    <ul>
+      
+      
+        
+          <li class="nav-item">
+            <a class="nav-link scrollto" href="#hero">
+               <span>Inicio</span>
+            </a>
+          </li>
+        
+      
+        
+          <li class="nav-item">
+            <a class="nav-link scrollto" href="#about">
+               <span>Acerca</span>
+            </a>
+          </li>
+        
+      
+        
+          <li class="nav-item">
+            <a class="nav-link scrollto" href="#features">
+               <span>Características</span>
+            </a>
+          </li>
+        
+      
+        
+          <li class="nav-item">
+            <a class="nav-link scrollto" href="#screenshots">
+               <span>Capturas</span>
+            </a>
+          </li>
+        
+      
+        
+          <li class="nav-item">
+            <a class="nav-link scrollto" href="#team">
+               <span>Equipo</span>
+            </a>
+          </li>
+        
+      
+        
+          <li class="nav-item">
+            <a class="nav-link scrollto" href="#pricing">
+               <span>Precios</span>
+            </a>
+          </li>
+        
+      
+        
+          <li class="nav-item">
+            <a class="nav-link scrollto" href="#blog">
+               <span>Blog</span>
+            </a>
+          </li>
+        
+      
+        
+          <li class="nav-item">
+            <a class="nav-link scrollto" href="#contact">
+               <span>Contacto</span>
+            </a>
+          </li>
+        
+      
+      
+      <li class="nav-item dropdown">
+        <a class="nav-link scrollto" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <span>Idioma</span> <i class="bi bi-chevron-down"></i>
+        </a>
+        <ul class="dropdown-menu" aria-labelledby="languagesNavbarDropdownMenuLink">
+  
+    <li>
+      <a class="dropdown-item" href="https://example.com/">
+        English
+      </a>
+    </li>
+  
+    <li>
+      <a class="dropdown-item" href="https://example.com/es/">
+        Español
+      </a>
+    </li>
+  
+</ul>
+
+      </li>
+      
+    </ul>
+  </nav>
+</aside>
+
+  </div>
+
+</header>
+
+
+  <section class="breadcrumbs">
+  <div class="container">
+
+    <div class="d-flex justify-content-between align-items-center">
+      <h2>Guía de sintaxis de Markdown</h2>
+      <ol>
+        
+  
+    
+  
+    
+  
+  
+    <li>
+      <a href="https://example.com/es/">Inicio</a>
+    </li>
+  
+
+  
+  
+    <li>
+      <a href="https://example.com/es/post/">Artículos</a>
+    </li>
+  
+
+  
+  
+    
+    <li class="active" aria-current="page">
+      Guía de sintaxis de Markdown
+    </li>
+    
+  
+
+      </ol>
+    </div>
+
+  </div>
+</section>
+
+
+
+
+
+  
+  <main aria-role="main">
+    
+<article>
+  <div class="container">
+
+    <div class="row mt-5 mb-3">
+      <div class="col-md-8 offset-md-2 text-center text-uppercase">
+        <h1>Guía de sintaxis de Markdown</h1>
+      </div>
+    </div>
+
+    <div class="row mb-5">
+      <div class="col-md-8 offset-md-2 text-center">
+        <time datetime="2019-03-11 00:00:00 &#43;0000 UTC">Mar 11, 2019</time>
+        |
+        <span id="readingtime">~3 minutos</span>
+      </div>
+    </div>
+
+    <div class="row mb-5">
+      <div class="col-md-8 offset-md-2">
+        <p>Este artículo ofrece una muestra de la sintaxis básica de Markdown que se puede utilizar en los archivos de contenido de Hugo, y también muestra si los elementos HTML básicos están decorados con CSS en un tema de Hugo.</p>
+<h2 id="encabezados">Encabezados</h2>
+<p>Los siguientes elementos HTML <code>&lt;h1&gt;</code> —<code>&lt;h6&gt;</code>representan seis niveles de encabezados de sección. <code>&lt;h1&gt;</code> es el nivel de sección más alto mientras que <code>&lt;h6&gt;</code> es el más bajo.</p>
+<h1 id="h1">H1</h1>
+<h2 id="h2">H2</h2>
+<h3 id="h3">H3</h3>
+<h4 id="h4">H4</h4>
+<h5 id="h5">H5</h5>
+<h6 id="h6">H6</h6>
+<h2 id="párrafo">Párrafo</h2>
+<p>Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, templado molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.</p>
+<p>Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia es sinveli squiatum, core et que aut hariosam ex eat.</p>
+<h2 id="blockquotes">Blockquotes</h2>
+<p>El elemento blockquote representa contenido que se cita de otra fuente, opcionalmente con una cita que debe estar dentro de un elemento <code>footer</code> o<code> cite</code>, y opcionalmente con cambios en línea como anotaciones y abreviaturas.</p>
+<h4 id="blockquote-sin-atribución">Blockquote sin atribución</h4>
+<blockquote>
+<p>Tiam, ad mint andaepu dandae nostion secatur sequo quae.
+** Tenga en cuenta ** que puede usar * sintaxis de Markdown * dentro de una cita en bloque.</p>
+</blockquote>
+<h4 id="blockquote-con-atribución">Blockquote con atribución</h4>
+<blockquote>
+<p>No se comunique compartiendo la memoria, comparta la memoria comunicándose. <!-- raw HTML omitted --></p>
+<ul>
+<li><!-- raw HTML omitted --> Rob Pike <sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> <!-- raw HTML omitted --></li>
+</ul>
+</blockquote>
+<h2 id="mesas">Mesas</h2>
+<p>Las tablas no forman parte de la especificación principal de Markdown, pero Hugo las admite de forma inmediata.</p>
+<table>
+<thead>
+<tr>
+<th>Nombre</th>
+<th>Años</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Bob</td>
+<td>27</td>
+</tr>
+<tr>
+<td>Alice</td>
+<td>23</td>
+</tr>
+</tbody>
+</table>
+<h4 id="inline-markdown-dentro-de-las-tablas">Inline Markdown dentro de las tablas</h4>
+<table>
+<thead>
+<tr>
+<th>Cursiva</th>
+<th>Negrita</th>
+<th>Código</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>* cursiva *</td>
+<td>** negrita **</td>
+<td><code>code</code></td>
+</tr>
+</tbody>
+</table>
+<h2 id="bloques-de-código">Bloques de código</h2>
+<h4 id="bloque-de-código-con-comillas-inversas">Bloque de código con comillas inversas</h4>
+<p>`` `html
+&lt;! doctype html&gt;</p>
+<!-- raw HTML omitted -->
+<h4 id="bloque-de-código-sangrado-con-cuatro-espacios">Bloque de código sangrado con cuatro espacios</h4>
+<pre><code>&lt;! doctype html&gt;
+&lt;html lang = &quot;en&quot;&gt;
+&lt;cabeza&gt;
+  &lt;meta charset = &quot;utf-8&quot;&gt;
+  &lt;title&gt; Documento HTML5 de ejemplo &lt;/title&gt;
+&lt;/head&gt;
+&lt;cuerpo&gt;
+  &lt;p&gt; Prueba &lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</code></pre>
+<h4 id="bloque-de-código-con-el-shortcode-resaltado-interno-de-hugo">Bloque de código con el shortcode resaltado interno de Hugo</h4>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-html" data-lang="html"><span style="color:#75715e">&lt;! doctype html&gt;</span>
+&lt;<span style="color:#f92672">html</span> <span style="color:#a6e22e">lang </span><span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;en&#34;</span>&gt;
+&lt;<span style="color:#f92672">cabeza</span>&gt;
+  &lt;<span style="color:#f92672">meta</span> <span style="color:#a6e22e">charset </span><span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;utf-8&#34;</span>&gt;
+  &lt;<span style="color:#f92672">title</span>&gt; Documento HTML5 de ejemplo &lt;/<span style="color:#f92672">title</span>&gt;
+&lt;/<span style="color:#f92672">head</span>&gt;
+&lt;<span style="color:#f92672">cuerpo</span>&gt;
+  &lt;<span style="color:#f92672">p</span>&gt; Prueba &lt;/<span style="color:#f92672">p</span>&gt;
+&lt;/<span style="color:#f92672">body</span>&gt;
+&lt;/<span style="color:#f92672">html</span>&gt;</code></pre></div>
+<h2 id="tipos-de-lista">Tipos de lista</h2>
+<h4 id="lista-ordenada">Lista ordenada</h4>
+<ol>
+<li>Primer elemento</li>
+<li>Segundo elemento</li>
+<li>Tercer artículo</li>
+</ol>
+<h4 id="lista-desordenada">Lista desordenada</h4>
+<ul>
+<li>Elemento de lista</li>
+<li>Otro artículo</li>
+<li>Y otro artículo</li>
+</ul>
+<h4 id="lista-anidada">Lista anidada</h4>
+<ul>
+<li>Fruta
+<ul>
+<li>Manzana</li>
+<li>Naranja</li>
+<li>Plátano</li>
+</ul>
+</li>
+<li>Lácteos
+<ul>
+<li>Leche</li>
+<li>Queso</li>
+</ul>
+</li>
+</ul>
+<h2 id="otros-elementos-abbr-sub-sup-kbd-mark">Otros elementos: abbr, sub, sup, kbd, mark</h2>
+<p><!-- raw HTML omitted --> GIF <!-- raw HTML omitted --> es un formato de imagen de mapa de bits.</p>
+<p>H <!-- raw HTML omitted --> 2 <!-- raw HTML omitted --> O</p>
+<p>X <!-- raw HTML omitted --> n <!-- raw HTML omitted --> + Y <!-- raw HTML omitted --> n <!-- raw HTML omitted --> = Z <!-- raw HTML omitted --> n <!-- raw HTML omitted --></p>
+<p>Presione <!-- raw HTML omitted --><!-- raw HTML omitted -->CTRL<!-- raw HTML omitted -->+<!-- raw HTML omitted -->ALT<!-- raw HTML omitted -->+<!-- raw HTML omitted -->Delete<!-- raw HTML omitted --> <!-- raw HTML omitted --> para finalizar la sesión.</p>
+<p>La mayoría de las <!-- raw HTML omitted --> salamandras <!-- raw HTML omitted --> son nocturnas y cazan insectos, gusanos y otras criaturas pequeñas.</p>
+<section class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1" role="doc-endnote">
+<p>La cita anterior es un extracto de la [charla] de Rob Pike (<a href="https://www.youtube.com/watch?v=PAAkCSZUG1c">https://www.youtube.com/watch?v=PAAkCSZUG1c</a>) durante el Gopherfest, el 18 de noviembre de 2015. <a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</section>
+      </div>
+    </div>
+
+    <div class="row mb-5">
+      <div class="col-md-8 offset-md-2 text-end">
+        
+          Por:  <em>Autores Hugo</em>
+        
+      </div>
+    </div>
+
+  </div>
+</article>
+
+<aside id="meta">
+  <div class="container">
+
+    
+    <div id="tags" class="row mb-5">
+      <div class="col-md-8 offset-md-2 text-center">
+        
+          <a href="https://example.com/es/tags/markdown" rel="tag">
+            <span class="badge bg-dark">markdown</span>
+          </a>
+        
+          <a href="https://example.com/es/tags/css" rel="tag">
+            <span class="badge bg-dark">css</span>
+          </a>
+        
+          <a href="https://example.com/es/tags/html" rel="tag">
+            <span class="badge bg-dark">html</span>
+          </a>
+        
+      </div>
+    </div>
+    
+
+    
+
+    
+    <div class="row mb-5">
+      <div class="col-md-8 offset-md-2 text-center">
+        
+        <div id="disqus_thread"></div>
+<script type="text/javascript">
+    (function () {
+        
+        
+        if (window.location.hostname == "localhost")
+            return;
+
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        var disqus_shortname = '';
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+      </div>
+    </div>
+
+    
+    <div class="row mb-5">
+      <div class="col-md-3 offset-md-2">
+        
+      </div>
+      <div class="col-md-2 text-center">
+        <a href="/es">Ir al Inicio</a>
+      </div>
+      <div class="col-md-3 text-end">
+        
+      </div>
+    </div>
+
+  </div>
+</aside>
+
+  </main>
+
+  <footer class="footer">
+  <div class="container">
+    <div class="row">
+
+      <div class="col-md-12 col-lg-4">
+        <div class="footer-logo">
+
+          <a class="navbar-brand" href="/es">eStartup</a>
+          <p>Lorem Ipsum es simplemente texto de relleno de la industria de la impresión y la composición tipográfica. Lorem Ipsum ha sido el texto de relleno estándar de la industria desde el siglo XVI.</p>
+
+        </div>
+      </div>
+
+      
+        
+      <div class="col-sm-6 col-md-3 col-lg-2">
+        <div class="list-menu">
+
+          <h4>Sobre nosotros</h4>
+
+          <ul class="list-unstyled">
+            
+            <li>
+              <a href="#about-us">
+                Sobre nosotros
+              </a>
+            </li>
+            
+            <li>
+              <a href="#features">
+                Características
+              </a>
+            </li>
+            
+            <li>
+              <a href="#video">
+                Transmisión en vivo
+              </a>
+            </li>
+            
+            <li>
+              <a href="#">
+                Política de privacidad
+              </a>
+            </li>
+            
+          </ul>
+
+        </div>
+      </div>
+        
+      <div class="col-sm-6 col-md-3 col-lg-2">
+        <div class="list-menu">
+
+          <h4>Sobre nosotros</h4>
+
+          <ul class="list-unstyled">
+            
+            <li>
+              <a href="#about-us">
+                Sobre nosotros
+              </a>
+            </li>
+            
+            <li>
+              <a href="#features">
+                Características
+              </a>
+            </li>
+            
+            <li>
+              <a href="#video">
+                Transmisión en vivo
+              </a>
+            </li>
+            
+            <li>
+              <a href="#">
+                Política de privacidad
+              </a>
+            </li>
+            
+          </ul>
+
+        </div>
+      </div>
+        
+      <div class="col-sm-6 col-md-3 col-lg-2">
+        <div class="list-menu">
+
+          <h4>Soporte</h4>
+
+          <ul class="list-unstyled">
+            
+            <li>
+              <a href="#">
+                Preguntas frecuentes
+              </a>
+            </li>
+            
+            <li>
+              <a href="#">
+                Ayuda del editor
+              </a>
+            </li>
+            
+            <li>
+              <a href="#contact">
+                Contactanos
+              </a>
+            </li>
+            
+            <li>
+              <a href="#">
+                Política de privacidad
+              </a>
+            </li>
+            
+          </ul>
+
+        </div>
+      </div>
+        
+      <div class="col-sm-6 col-md-3 col-lg-2">
+        <div class="list-menu">
+
+          <h4>Soporte</h4>
+
+          <ul class="list-unstyled">
+            
+            <li>
+              <a href="#">
+                Preguntas frecuentes
+              </a>
+            </li>
+            
+            <li>
+              <a href="#">
+                Ayuda del editor
+              </a>
+            </li>
+            
+            <li>
+              <a href="#contact">
+                Contactanos
+              </a>
+            </li>
+            
+            <li>
+              <a href="#">
+                Política de privacidad
+              </a>
+            </li>
+            
+          </ul>
+
+        </div>
+      </div>
+        
+      
+
+    </div>
+  </div>
+
+  <div class="copyrights">
+    <div class="container">
+      <p>&copy; Copyright eStartup. Todos los Derechos Reservados.</p>
+      <div class="credits">
+        
+        Diseñado por <a href="https://bootstrapmade.com/">BootstrapMade</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-p34f1UUtsS3wqzfto5wAAmdvj+osOnFyQFpp4Ua3gs/ZVWx6oOypYoCJhGGScy+8" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+
+
+<script src="https://example.com/vendor/aos/aos.js"></script>
+<script src="https://example.com/vendor/glightbox/js/glightbox.min.js"></script>
+<script src="https://example.com/vendor/php-email-form/validate.js"></script>
+<script src="https://example.com/vendor/swiper/swiper-bundle.min.js"></script>
+
+
+<script src="https://example.com/js/bundle.min.4ab437944b39989409c6c332f0f9ae71c788deecaf6ec9b605b1e65b181c51fc6efc90eed175d0a202cb60d6a9d05c4c74862f64d5facb962afb739cd87500ed.js" integrity="sha512-SrQ3lEs5mJQJxsMy8PmucceI3uyvbsm2BbHmWxgcUfxu/JDu0XXQogLLYNap0FxMdIYvZNX6y5Yq&#43;3Oc2HUA7Q=="></script>
+
+</body>
+
+</html>
